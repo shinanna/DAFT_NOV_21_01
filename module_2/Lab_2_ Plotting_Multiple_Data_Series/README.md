@@ -23,4 +23,3 @@ Upon completion, add your deliverables to git. Then commit git and push your bra
 - [Pandas Plotting Documentation](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.plot.html)
 - [Seaborn Tutorial](https://seaborn.pydata.org/tutorial.html)
 - [Matplotlib Documentation](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.plot.html)
-
